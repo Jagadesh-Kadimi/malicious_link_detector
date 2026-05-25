@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
+    background: radial-gradient(circle at top, #0f172a, #020617);
+    color: #00ff9d;
+    font-family: 'Courier New', monospace;
+    min-height: 100vh;
 }
 
 .container {
