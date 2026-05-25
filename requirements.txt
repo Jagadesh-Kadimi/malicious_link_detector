@@ -1,7 +1,9 @@
-flask
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+Flask
 gunicorn
+scikit-learn
+numpy
+pandas
+beautifulsoup4
+requests
+tldextract
+python-whois
