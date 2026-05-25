@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-    <canvas id="matrix">
+    <canvas id="matrix"> </canvas>
           <div class="container">
         <h1 class="glow">Malicious Link Detector</h1>
         <form action="/predict" method="POST">
@@ -21,7 +21,7 @@
             <button type="submit">Predict</button>
         </form>
     </div>
-    </canvas>
+   
 
 <script>
 const canvas = document.getElementById("matrix");
